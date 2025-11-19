@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1759756048930,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "menuItem": {
+          "id": 1,
+          "name": "Jollof Rice & Chicken",
+          "price": 3500,
+          "image": "/images/jollof rice and chicken.jpg"
+        },
+        "quantity": 1
+      }
+    ],
+    "total": 3500
+  },
+  {
+    "id": 1759758244845,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Hamburger",
+        "description": "A juicy beef patty on a sesame seed bun, with lettuce, tomato, and onion.",
+        "price": 12,
+        "image": "/images/Hamburger-Recipe-7.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 7,
+        "name": "Shawarma",
+        "price": 5000,
+        "image": "/images/shawarma.webp",
+        "quantity": 1
+      }
+    ],
+    "total": 5012
+  },
+  {
+    "id": 1759762947164,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "id": 7,
+        "name": "Shawarma",
+        "price": 5000,
+        "image": "/images/shawarma.webp",
+        "quantity": 1
+      }
+    ],
+    "total": 5000
+  },
+  {
+    "id": 1759763922167,
+    "customer": {
+      "name": "ade",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Jollof Rice and Chicken",
+        "description": "A classic West African dish with flavorful rice and grilled chicken.",
+        "price": 15.99,
+        "image": "/images/jollof rice and chicken.jpg",
+        "quantity": 7
+      }
+    ],
+    "total": 111.93
+  },
+  {
+    "id": 1759772761564,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Jollof Rice & Chicken",
+        "price": 3500,
+        "image": "/images/jollof rice and chicken.jpg",
+        "quantity": 1
+      }
+    ],
+    "total": 3500
+  },
+  {
+    "id": 1759783322925,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Jollof Rice & Chicken",
+        "price": 3500,
+        "image": "/images/jollof rice and chicken.jpg",
+        "quantity": 1
+      }
+    ],
+    "total": 3500
+  },
+  {
+    "id": 1759827146445,
+    "customer": {
+      "name": "ade",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [],
+    "total": 0
+  },
+  {
+    "id": 1759831958993,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Hamburger",
+        "description": "A juicy beef patty on a sesame seed bun, with lettuce, tomato, and onion.",
+        "price": 12,
+        "image": "/images/Hamburger-Recipe-7.jpg",
+        "quantity": 1
+      }
+    ],
+    "total": 12
+  },
+  {
+    "id": 1759832127712,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [],
+    "total": 0
+  },
+  {
+    "id": 1759911921889,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": ""
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Jollof Rice and Chicken",
+        "description": "A classic West African dish with flavorful rice and grilled chicken.",
+        "price": 15.99,
+        "image": "/images/jollof rice and chicken.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Pounded Yam with Egusi Soup",
+        "description": "A traditional Nigerian meal, perfect for a hearty appetite.",
+        "price": 18.5,
+        "image": "/images/Pounded-Yam-with-Egusi-Soup.png",
+        "quantity": 1
+      }
+    ],
+    "total": 34.49
+  },
+  {
+    "id": 1759913777499,
+    "customer": {
+      "name": "samuel",
+      "phone": "8139214035",
+      "address": "lagos",
+      "instructions": "order"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Jollof Rice and Chicken",
+        "description": "A classic West African dish with flavorful rice and grilled chicken.",
+        "price": 3000,
+        "image": "/images/jollof rice and chicken.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Hamburger",
+        "description": "A juicy beef patty on a sesame seed bun, with lettuce, tomato, and onion.",
+        "price": 4500,
+        "image": "/images/Hamburger-Recipe-7.jpg",
+        "quantity": 1
+      }
+    ],
+    "total": 7500
+  }
+]

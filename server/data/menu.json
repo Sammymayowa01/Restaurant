@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Jollof Rice and Chicken",
+    "description": "A classic West African dish with flavorful rice and grilled chicken.",
+    "price": 3500,
+    "image": "/images/jollof rice and chicken.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 2,
+    "name": "Pounded Yam with Egusi Soup",
+    "description": "A traditional Nigerian meal, perfect for a hearty appetite.",
+    "price": 3000,
+    "image": "/images/Pounded-Yam-with-Egusi-Soup.png",
+    "category": "Main Course"
+  },
+  {
+    "id": 3,
+    "name": "Hamburger",
+    "description": "A juicy beef patty on a sesame seed bun, with lettuce, tomato, and onion.",
+    "price": 4500,
+    "image": "/images/Hamburger-Recipe-7.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 4,
+    "name": "Pizza",
+    "description": "Classic cheese and tomato pizza with a crispy crust.",
+    "price": 4000,
+    "image": "/images/pizza.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 5,
+    "name": "Suya",
+    "description": "Spicy skewered meat, a popular Nigerian street food.",
+    "price": 2500,
+    "image": "/images/suya.jpg",
+    "category": "Appetizer"
+  },
+  {
+    "id": 6,
+    "name": "Fried Rice and Chicken",
+    "description": "Delicious fried rice with succulent chicken.",
+    "price": 3500,
+    "image": "/images/Fried-Rice-Chicken.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 7,
+    "name": "Fufu and Egusi",
+    "description": "A classic combo of fufu and egusi soup.",
+    "price": 2500,
+    "image": "/images/fufu and egusi.jpeg",
+    "category": "Main Course"
+  },
+  {
+    "id": 8,
+    "name": "Jollof Rice and Plantain",
+    "description": "A sweet and savory combination of jollof rice and fried plantain.",
+    "price": 3500,
+    "image": "/images/jollof rice and plantain.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 9,
+    "name": "Pounded Yam and Efo Riro",
+    "description": "Pounded yam served with a rich vegetable soup.",
+    "price": 2500,
+    "image": "/images/Pounded-Yam , efo riro.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 10,
+    "name": "Samosa",
+    "description": "Crispy pastry filled with spiced vegetables.",
+    "price": 1500,
+    "image": "/images/samosa.jpeg",
+    "category": "Appetizer"
+  },
+  {
+    "id": 11,
+    "name": "Shawarma",
+    "description": "Grilled meat wrapped in a pita bread with vegetables and sauce.",
+    "price": 4000,
+    "image": "/images/shawarma.webp",
+    "category": "Appetizer"
+  },
+  {
+    "id": 12,
+    "name": "Spring Roll",
+    "description": "A crispy and savory appetizer.",
+    "price": 2000,
+    "image": "/images/spring roll.jpg",
+    "category": "Appetizer"
+  },
+  {
+    "id": 13,
+    "name": "Cake",
+    "description": "A slice of delicious cake.",
+    "price": 40000,
+    "image": "/images/cake.jpg",
+    "category": "Dessert"
+  }
+]

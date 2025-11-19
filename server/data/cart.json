@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Jollof Rice and Chicken",
+    "description": "A classic West African dish with flavorful rice and grilled chicken.",
+    "price": 3000,
+    "image": "/images/jollof rice and chicken.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Hamburger",
+    "description": "A juicy beef patty on a sesame seed bun, with lettuce, tomato, and onion.",
+    "price": 4500,
+    "image": "/images/Hamburger-Recipe-7.jpg",
+    "quantity": 1
+  }
+]
