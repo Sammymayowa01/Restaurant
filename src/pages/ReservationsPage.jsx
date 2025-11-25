@@ -22,7 +22,7 @@ const ReservationsPage = () => {
     e.preventDefault();
     setStatus('sending');
     try {
-      await axios.post('/api/reservation', formData);
+      await axios.post('https://restaurant-production-f0e2.up.railway.app/api/reservation', formData);
       setStatus('success');
       setFormData({
         name: '', email: '', phone: '', guests: '2', date: '', time: '', notes: ''
