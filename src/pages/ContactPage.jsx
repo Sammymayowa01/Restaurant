@@ -14,7 +14,7 @@ const ContactPage = () => {
     e.preventDefault();
     setStatus({ type: 'sending', message: '' });
     try {
-      const response = await axios.post('/api/contact', formData);
+      const response = await axios.post('https://restaurant-production-f0e2.up.railway.app/api/contact', formData);
       setStatus({ type: 'success', message: response.data.message });
       setFormData({ name: '', email: '', message: '' });
     } catch (error) {
